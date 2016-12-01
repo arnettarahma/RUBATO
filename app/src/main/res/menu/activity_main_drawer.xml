@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <group android:checkableBehavior="single">
+    <group android:checkableBehavior="all">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:id="@+id/nav_home"
+            android:checked="false"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
+            android:id="@+id/nav_aboutus"
+            android:checked="false"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="About Us" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:id="@+id/nav_daftar"
+            android:checked="false"
+            android:icon="@drawable/ic_list_black_24dp"
+            android:title="List Music" />
+
     </group>
 
-    <item android:title="Communicate">
+    <item
+        android:id="@+id/navigation_kategori_2"
+        android:title="@string/navigation_kategori_2">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/nav_setting"
+                android:checked="false"
+                android:icon="@drawable/ic_build_black_24dp"
+                android:title="Setting" />
             <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:id="@+id/nav_profil"
+                android:checked="false"
+                android:icon="@drawable/ic_help_outline_black_24dp"
+                android:title="About Rubato" />
         </menu>
     </item>
 
