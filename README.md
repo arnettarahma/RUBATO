@@ -2,9 +2,9 @@
 Aplikasi ini adalah aplikasi pemutar music yang ada pada SD Card.
 
 #Screenshot
-(https://cloud.githubusercontent.com/assets/22053684/20972627/0ec9ee44-bcc8-11e6-8ce9-23ed03400349.png)
-(https://cloud.githubusercontent.com/assets/22053684/20972628/0ef697be-bcc8-11e6-8fa9-c5161f4b937f.png)
-(https://cloud.githubusercontent.com/assets/22053684/20972629/0efe2510-bcc8-11e6-8cae-5544a6578b5a.png)
+https://cloud.githubusercontent.com/assets/22053684/20972627/0ec9ee44-bcc8-11e6-8ce9-23ed03400349.png <br><br>
+https://cloud.githubusercontent.com/assets/22053684/20972628/0ef697be-bcc8-11e6-8fa9-c5161f4b937f.png <br><br>
+https://cloud.githubusercontent.com/assets/22053684/20972629/0efe2510-bcc8-11e6-8cae-5544a6578b5a.png <br><br>
 
 
 #Video Aplikasi
