@@ -11,7 +11,7 @@ Aplikasi ini adalah aplikasi pemutar music yang ada pada SD Card.
 <br><br>
 
 #Video Aplikasi
-[youtube https://www.youtube.com/watch?v=xJAVnZe05YQ] <br><br>
+https://www.youtube.com/watch?v=xJAVnZe05YQ <br><br>
 
 #Link Apk
 
